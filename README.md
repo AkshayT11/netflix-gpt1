@@ -11,6 +11,10 @@ Currently, two official plugins are available:
 
 - create vite@latest app
 - configure Tailwind css in app
+- Header
+- Login Form
+
+##
 
 - Login/Signup
     - Sign In /Sign Up Form
