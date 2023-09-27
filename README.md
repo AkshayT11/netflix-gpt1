@@ -13,6 +13,16 @@ Currently, two official plugins are available:
 - configure Tailwind css in app
 - Header
 - Login Form
+- Useref
+- setup firebase
+- Deploy app to production
+- Create Sign Up User Account in Firebase 
+- Implement Sign in User API
+- Created Redux Store with userSlice
+- Implemented Sign Out function
+- Update profile
+- Fetch Movies From TMDB 
+
 
 ##
 
