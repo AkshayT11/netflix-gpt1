@@ -21,7 +21,22 @@ Currently, two official plugins are available:
 - Created Redux Store with userSlice
 - Implemented Sign Out function
 - Update profile
-- Fetch Movies From TMDB 
+- Bug Fix - Sign up user display Name and profile picture update
+-  Bug Fix : if user not logged in cant use browse page directly **  
+- Unsubcribe to the onAuthState Changed callback
+- Add hardcore values to the Constance like Urls..
+- Registered TMDB API create an app & get access of token
+- Fetch Movies From TMDB & get data !!
+- Created a Custom hook for NowPlaying Movies
+- create MovieSlice
+- Update Store with movies Data
+- Planning for MainContainer & Secondary Container
+- Fetch data for Trailer Videos
+- Update store with Trailer Video Data
+- Embedded the Youtube Video make it autoplay and mute
+- Tailwind for make Main container look awesome
+
+
 
 
 ##
