@@ -41,6 +41,10 @@ Currently, two official plugins are available:
 - TMDB Image CDN URL
 - Made lists of Trending , popular , ...etc movie cards
 - usePopularMovies Custome Hooks
+- Gpt Search page
+- Gpt Search Bar
+- Multi-lang features in App ***
+- Integrate Gpt API
 
 
 
