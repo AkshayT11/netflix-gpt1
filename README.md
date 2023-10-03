@@ -45,6 +45,9 @@ Currently, two official plugins are available:
 - Gpt Search Bar
 - Multi-lang features in App ***
 - Integrate Gpt API
+- OpenAPI account open
+- API key get and fetch it
+- Use Memoization technique so i get low API call
 
 
 

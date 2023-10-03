@@ -6,8 +6,8 @@ export const API_OPTIONS =  {
     method: 'GET',
     headers: {
       accept: 'application/json',
-      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjIzYWU2NTRmMWMwYTdiNzIzNjkxZTcwZGNmYTNkMCIsInN1YiI6IjY1MTQyNTczOWI4NjE2MDExYzQ3NGRkYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ke0ENj3UfTqgvtIO1Whe1BMaVErKaMKlBp9rL3Eehg4'
-    }
+      Authorization: "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjIzYWU2NTRmMWMwYTdiNzIzNjkxZTcwZGNmYTNkMCIsInN1YiI6IjY1MTQyNTczOWI4NjE2MDExYzQ3NGRkYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ke0ENj3UfTqgvtIO1Whe1BMaVErKaMKlBp9rL3Eehg4",
+    },
   };
 
 export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500"  
@@ -16,3 +16,8 @@ export const BG_URL = "https://assets.nflxext.com/ffe/siteui/vlv3/f85718e8-fc6d-
 
 export const SUPPORTED_LANGUAGES = [{identifier: "en", name: "English"},
 {identifier: "hindi", name: "Hindi"},{identifier: "spanish", name: "Spanish"},]
+
+export const OPENAI_KEY = "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";
+
+
+
